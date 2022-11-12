@@ -180,15 +180,19 @@ h1, h2, h3, h4, h5 {
   color: var(--sc-color-text-primary);
 }
 
-h1.is-color-inverse, h2.is-color-inverse, h3.is-color-inverse, h4.is-color-inverse, h5.is-color-inverse {
+h1.sc-color-primary-inverse, h2.sc-color-primary-inverse, h3.sc-color-primary-inverse, h4.sc-color-primary-inverse, h5.sc-color-primary-inverse {
   color: var(--sc-color-text-primary-inverse);
+}
+
+h1.sc-text-title-xl {
+  font-size: var(--sc-text-title-xl);
 }
 
 p {
   color: var(--sc-color-text-secondary);
 }
 
-p.is-color-inverse {
+p.sc-color-secondary-inverse {
   color: var(--sc-color-text-secondary-inverse);
 }
 
