@@ -153,10 +153,19 @@
 
 }
 
-/* Text tyles */
+/* Html tyles */
+
+body {
+    background-color: var(--sc-color-surface-l0);
+    color: var(--sc-color-text-secondary);
+}
 
 h1, h2, h3, h4, h5 {
   color: var(--sc-color-text-primary);
+}
+
+p {
+  color: var(--sc-color-text-secondary);
 }
 
 
