@@ -21,6 +21,8 @@
 --sc-color-text-warning: #954E08;
 --sc-color-text-negative: #BA1515;
 --sc-color-text-positive: #007C29;
+--sc-color-text-primary-inverse-static: #FFFFFF;
+
 --sc-color-button-primary: #3355FF;
 --sc-color-button-primary-hover: #2945CE;
 --sc-color-button-primary-pressed: #1F349D;
@@ -29,6 +31,7 @@
 --sc-color-button-secondary-pressed: #8196FF;
 --sc-color-button-tertiary-hover: #D0D8FF;
 --sc-color-button-tertiary-pressed: #A9B7FF;
+
 --sc-color-icon-default: #1A1A1A;
 --sc-color-icon-selected: #3355FF;
 --sc-color-icon-disabled: #666666;
@@ -39,6 +42,7 @@
 --sc-color-icon-warning: #F27F0D;
 --sc-color-icon-negative: #E61A1A;
 --sc-color-icon-positive: #009933;
+
 --sc-color-border-default: #B3B3B3;
 --sc-color-border-focus: #3355FF;
 --sc-color-border-disabled: #B3B3B3;
@@ -48,6 +52,7 @@
 --sc-color-border-warning: #F27F0D;
 --sc-color-border-negative: #E61A1A;
 --sc-color-border-positive: #009933;
+
 --sc-color-background-default: #FFFFFF;
 --sc-color-background-hover: #F2F2F2;
 --sc-color-background-selected: #F7F8FF;
@@ -65,6 +70,7 @@
 --sc-color-background-negative-subtle: #FEF6F6;
 --sc-color-background-positive-subtle: #F5FBF7;
 --sc-color-background-system-static: #000000;
+
 --sc-color-surface-l0: #FFFFFF;
 --sc-color-surface-l1: #FFFFFF;
 --sc-color-surface-l2: #FFFFFF;
@@ -95,6 +101,8 @@
 --sc-color-text-warning: #F27F0D;
 --sc-color-text-negative: #EB4646;
 --sc-color-text-positive: #31AD5A;
+--sc-color-text-primary-inverse-static: #FFFFFF;
+
 --sc-color-button-primary: #5A76FF;
 --sc-color-button-primary-hover: #8196FF;
 --sc-color-button-primary-pressed: #A9B7FF;
@@ -103,6 +111,7 @@
 --sc-color-button-secondary-pressed: #808080;
 --sc-color-button-text-hover: #4C4C4C;
 --sc-color-button-text-pressed: #666666;
+
 --sc-color-icon-default: #FFFFFF;
 --sc-color-icon-selected: #5A76FF;
 --sc-color-icon-disabled: #666666;
@@ -113,6 +122,7 @@
 --sc-color-icon-warning: #F27F0D;
 --sc-color-icon-negative: #EB4646;
 --sc-color-icon-positive: #31AD5A;
+
 --sc-color-border-default: #4C4C4C;
 --sc-color-border-focus: #5A76FF;
 --sc-color-border-disabled: #333333;
@@ -122,6 +132,7 @@
 --sc-color-border-warning: #F27F0D;
 --sc-color-border-negative: #EB4646;
 --sc-color-border-positive: #31AD5A;
+
 --sc-color-background-default: #262626;
 --sc-color-background-hover: #333333;
 --sc-color-background-selected: #0C133B;
@@ -139,6 +150,7 @@
 --sc-color-background-negative-subtle: #350606;
 --sc-color-background-positive-subtle: #00230C;
 --sc-color-background-system-static: #000000;
+
 --sc-color-surface-l0: #000000;
 --sc-color-surface-l1: #0D0D0D;
 --sc-color-surface-l2: #1A1A1A;
