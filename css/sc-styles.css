@@ -1,0 +1,39 @@
+/* Scale Webflow styles */
+
+body {
+    background-color: var(--sc-color-surface-l0);
+    color: var(--sc-color-text-secondary)
+}
+
+h1 {
+  font-size: var(--sc-text-heading-l);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--sc-color-text-primary);
+}
+
+h1.sc-color-text-primary-inverse,
+h2.sc-color-text-primary-inverse,
+h3.sc-color-text-primary-inverse,
+h4.sc-color-text-primary-inverse,
+h5.sc-color-text-primary-inverse {
+  color: var(--sc-color-text-primary-inverse);
+}
+
+h1.sc-color-text-primary-inverse-static {
+  color: var(--sc-color-text-primary-inverse-static);
+}
+
+h1.sc-text-title-xl {
+  font-size: var(--sc-text-title-xl);
+}
+
+
+p {
+  color: var(--sc-color-text-secondary);
+}
+
+p.sc-color-secondary-inverse {
+  color: var(--sc-color-text-secondary-inverse);
+}
