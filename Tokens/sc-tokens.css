@@ -157,15 +157,23 @@
 
 body {
     background-color: var(--sc-color-surface-l0);
-    color: var(--sc-color-text-secondary);
+    color: var(--sc-color-text-secondary)
 }
 
 h1, h2, h3, h4, h5 {
   color: var(--sc-color-text-primary);
 }
 
+h1.--is-color-inverse {
+  color: var(--sc-color-text-primary-inverse);
+}
+
 p {
   color: var(--sc-color-text-secondary);
+}
+
+p.--is-color-inverse {
+  color: var(--sc-color-text-secondary-inverse);
 }
 
 
