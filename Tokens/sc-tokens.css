@@ -182,6 +182,8 @@ p.is-color-inverse {
 
 
 /* Text-size styles */
+:root {
+
 --sc-text-title-xl: 72px;
 --sc-text-title-l: 64px;
 --sc-text-title-m: 56px;
@@ -208,3 +210,5 @@ p.is-color-inverse {
 --sc-color-shadow-l4:  0px 12px 20px rgba(0, 0, 0, 0.1), 0px 0px 8px rgba(0, 0, 0, 0.08);
 --sc-color-shadow-l5:  0px 14px 24px rgba(0, 0, 0, 0.1), 0px 0px 10px rgba(0, 0, 0, 0.08);
 --sc-color-shadow-l6:  0px 24px 40px rgba(0, 0, 0, 0.1), 0px 0px 12px rgba(0, 0, 0, 0.08);
+
+}
