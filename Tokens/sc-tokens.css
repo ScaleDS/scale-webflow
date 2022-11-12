@@ -153,6 +153,12 @@
 
 }
 
+/* Text tyles */
+
+h1, h2, h3, h4, h5 {
+  color: var(--sc-color-text-primary);
+}
+
 
 /* Text-size styles */
 --sc-text-title-x-l: 72px;
