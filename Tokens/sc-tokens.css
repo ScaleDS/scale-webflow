@@ -160,11 +160,15 @@ body {
     color: var(--sc-color-text-secondary)
 }
 
+h1 {
+  font-size: var(--sc-text-heading-l);
+}
+
 h1, h2, h3, h4, h5 {
   color: var(--sc-color-text-primary);
 }
 
-h1.is-color-inverse {
+h1.is-color-inverse, h2.is-color-inverse, h3.is-color-inverse, h4.is-color-inverse, h5.is-color-inverse {
   color: var(--sc-color-text-primary-inverse);
 }
 
@@ -178,11 +182,11 @@ p.is-color-inverse {
 
 
 /* Text-size styles */
---sc-text-title-x-l: 72px;
+--sc-text-title-xl: 72px;
 --sc-text-title-l: 64px;
 --sc-text-title-m: 56px;
 --sc-text-title-s: 48px;
---sc-text-heading-x-l: 40px;
+--sc-text-heading-xl: 40px;
 --sc-text-heading-l: 32px;
 --sc-text-heading-m: 24px;
 --sc-text-heading-s: 20px;
