@@ -21,7 +21,9 @@
 --sc-color-text-warning: #954E08;
 --sc-color-text-negative: #BA1515;
 --sc-color-text-positive: #007C29;
+/* Static */
 --sc-color-text-primary-inverse-static: #FFFFFF;
+--sc-color-text-secondary-inverse-static: #F2F2F2;
 
 --sc-color-button-primary: #3355FF;
 --sc-color-button-primary-hover: #2945CE;
@@ -69,6 +71,7 @@
 --sc-color-background-warning-subtle: #FEFAF5;
 --sc-color-background-negative-subtle: #FEF6F6;
 --sc-color-background-positive-subtle: #F5FBF7;
+/* Static */
 --sc-color-background-system-static: #000000;
 
 --sc-color-surface-l0: #FFFFFF;
@@ -101,7 +104,9 @@
 --sc-color-text-warning: #F27F0D;
 --sc-color-text-negative: #EB4646;
 --sc-color-text-positive: #31AD5A;
+/* Static */
 --sc-color-text-primary-inverse-static: #FFFFFF;
+--sc-color-text-secondary-inverse-static: #F2F2F2;
 
 --sc-color-button-primary: #5A76FF;
 --sc-color-button-primary-hover: #8196FF;
@@ -149,6 +154,7 @@
 --sc-color-background-warning-subtle: #381D03;
 --sc-color-background-negative-subtle: #350606;
 --sc-color-background-positive-subtle: #00230C;
+/* Static */
 --sc-color-background-system-static: #000000;
 
 --sc-color-surface-l0: #000000;

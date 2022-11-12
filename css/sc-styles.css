@@ -32,8 +32,13 @@ h1.sc-text-title-xl {
 
 p {
   color: var(--sc-color-text-secondary);
+  font-size: var(--sc-text-text-l);
 }
 
 p.sc-color-secondary-inverse {
   color: var(--sc-color-text-secondary-inverse);
+}
+
+p.sc-color-secondary-inverse-static {
+  color: var(--sc-color-text-secondary-inverse-static);
 }
