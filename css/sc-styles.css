@@ -6,7 +6,54 @@ body {
 }
 
 
-/* Text sizes */
+/* Text global color */
+
+h1, h2, h3, h4, h5 {
+  color: var(--sc-color-text-primary);
+}
+
+p {
+  color: var(--sc-color-text-secondary);
+}
+
+a {
+  color: var(--sc-color-text-link);
+}
+
+/* Text global token color */
+
+.sc-color-text-primary-inverse {
+  color: var(--sc-color-text-primary-inverse);
+}
+
+.sc-color-text-primary-inverse-static {
+  color: var(--sc-color-text-primary-inverse-static);
+}
+
+.sc-color-secondary-inverse {
+  color: var(--sc-color-text-secondary-inverse);
+}
+
+.sc-color-secondary-inverse-static {
+  color: var(--sc-color-text-secondary-inverse-static);
+}
+
+/* Text global size */
+
+h1 {
+  font-size: var(--sc-text-heading-l);
+}
+
+p {
+  font-size: var(--sc-text-text-l);
+}
+
+a {
+  font-size: var(--sc-text-link-l);
+}
+
+
+/* Text token size */
 
 .sc-text-title-xl {
   font-size: var(--sc-text-title-xl);
@@ -76,57 +123,17 @@ body {
   font-size: var(--sc-text-label-s);
 }
 
-/* Headings */
-
-h1 {
-  font-size: var(--sc-text-heading-l);
-}
-
-h1, h2, h3, h4, h5 {
-  color: var(--sc-color-text-primary);
-}
-
-h1.sc-color-text-primary-inverse,
-h2.sc-color-text-primary-inverse,
-h3.sc-color-text-primary-inverse,
-h4.sc-color-text-primary-inverse,
-h5.sc-color-text-primary-inverse {
-  color: var(--sc-color-text-primary-inverse);
-}
-
-h1.sc-color-text-primary-inverse-static {
-  color: var(--sc-color-text-primary-inverse-static);
-}
-
-
-/* Paragraphs */
-
-p {
-  color: var(--sc-color-text-secondary);
-}
-
-p.sc-color-secondary-inverse {
-  color: var(--sc-color-text-secondary-inverse);
-}
-
-p.sc-color-secondary-inverse-static {
-  color: var(--sc-color-text-secondary-inverse-static);
-}
-
+/* Text specific color */
 
 /* Links */
-
-a {
-  color: var(--sc-color-text-link);
-}
 
 a:hover {
   color: var(--sc-color-text-link-hover);
 }
 
 
-/* Labels */
+/* Headings */
 
-.label {
-  color: var(--sc-color-text-secondary);
-}
+/* Paragraphs */
+
+/* Labels */
