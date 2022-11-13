@@ -30,11 +30,11 @@ a {
   color: var(--sc-color-text-primary-inverse-static);
 }
 
-.sc-color-secondary-inverse {
+.sc-color-text-secondary-inverse {
   color: var(--sc-color-text-secondary-inverse);
 }
 
-.sc-color-secondary-inverse-static {
+.sc-color-text-secondary-inverse-static {
   color: var(--sc-color-text-secondary-inverse-static);
 }
 
