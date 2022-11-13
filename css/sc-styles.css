@@ -87,8 +87,12 @@ a {
   font-size: var(--sc-text-heading-s);
 }
 
-.sc-text-heading-l {
-  font-size: var(--sc-text-heading-l);
+.sc-text-heading-xs {
+  font-size: var(--sc-text-heading-xs);
+}
+
+.sc-text-heading-xxs {
+  font-size: var(--sc-text-heading-xxs);
 }
 
 .sc-text-text-l {
@@ -122,6 +126,7 @@ a {
 .sc-text-label-s {
   font-size: var(--sc-text-label-s);
 }
+
 
 /* Text specific color */
 
