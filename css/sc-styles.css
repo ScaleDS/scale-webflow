@@ -5,6 +5,27 @@ body {
     color: var(--sc-color-text-secondary)
 }
 
+
+/* Titles */
+
+h1.sc-text-title-xl {
+  font-size: var(--sc-text-title-xl);
+}
+
+h1.sc-text-title-l {
+  font-size: var(--sc-text-title-l);
+}
+
+h1.sc-text-title-m {
+  font-size: var(--sc-text-title-m);
+}
+
+h1.sc-text-title- {
+  font-size: var(--sc-text-title-s);
+}
+
+/* Headings */
+
 h1 {
   font-size: var(--sc-text-heading-l);
 }
@@ -25,14 +46,11 @@ h1.sc-color-text-primary-inverse-static {
   color: var(--sc-color-text-primary-inverse-static);
 }
 
-h1.sc-text-title-xl {
-  font-size: var(--sc-text-title-xl);
-}
 
+/* Paragraphs */
 
 p {
   color: var(--sc-color-text-secondary);
-  font-size: var(--sc-text-text-l);
 }
 
 p.sc-color-secondary-inverse {
@@ -42,3 +60,18 @@ p.sc-color-secondary-inverse {
 p.sc-color-secondary-inverse-static {
   color: var(--sc-color-text-secondary-inverse-static);
 }
+
+p.sc-text-tex-l {
+  font-size: var(--sc-text-text-l);
+}
+
+p.sc-text-text-m {
+  font-size: var(--sc-text-text-m);
+}
+
+p.sc-text-text-s {
+  font-size: var(--sc-text-text-s);
+}
+
+
+/* Links */
