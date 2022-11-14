@@ -201,3 +201,9 @@ a:hover {
 /* Paragraphs */
 
 /* Labels */
+
+/* Images */
+
+.sc-image-hero-wallpaper {
+  background-image: var(--sc-image-hero-wallpaper);
+}
