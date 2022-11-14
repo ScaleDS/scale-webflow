@@ -136,6 +136,18 @@ a:hover {
   color: var(--sc-color-text-link-hover);
 }
 
+.button {
+  background-color: var(--sc-color-button-primary);
+}
+
+.button:hover {
+  background-color: var(--sc-color-button-primary-hover);
+}
+
+.button:active {
+  background-color: var(--sc-color-button-primary-pressed);
+}
+
 
 /* Headings */
 
