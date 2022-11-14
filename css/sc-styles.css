@@ -207,5 +207,6 @@ a:hover {
 .sc-image-hero-wallpaper {
   background: var(--sc-image-hero-wallpaper);
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
 }
