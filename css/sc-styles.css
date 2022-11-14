@@ -138,16 +138,63 @@ a:hover {
 
 .button {
   background-color: var(--sc-color-button-primary);
+  color: var(--sc-color-text-onbrand);
 }
 
 .button:hover {
   background-color: var(--sc-color-button-primary-hover);
+  color: var(--sc-color-text-onbrand);
 }
 
 .button:active {
   background-color: var(--sc-color-button-primary-pressed);
+  color: var(--sc-color-text-onbrand);
 }
 
+.button.secondary {
+  background-color: var(--sc-color-button-secondary);
+  color: var(--sc-color-text-secondary);
+}
+
+.button.secondary:hover {
+  background-color: var(--sc-color-button-secondary-hover);
+  color: var(--sc-color-text-secondary);
+}
+
+.button.secondary:active {
+  background-color: var(--sc-color-button-secondary-pressed);
+  color: var(--sc-color-text-secondary);
+}
+
+.button.tertiary {
+  background-color: var(--sc-color-button-tertiary);
+  color: var(--sc-color-text-link);
+}
+
+.button.tertiary:hover {
+  background-color: var(--sc-color-button-tertiary-hover);
+  color: var(--sc-color-text-link-hover);
+}
+
+.button.tertiary:active {
+  background-color: var(--sc-color-button-tertiary-pressed);
+  color: var(--sc-color-text-link-hover);
+}
+
+.button.text {
+  background-color: transperant;
+  color: var(--sc-color-text-link);
+}
+
+.button.text:hover {
+  background-color: transperant;
+  color: var(--sc-color-text-link-hover);
+}
+
+.button.text:active {
+  background-color: transperant;
+  color: var(--sc-color-text-link-hover);
+}
 
 /* Headings */
 
