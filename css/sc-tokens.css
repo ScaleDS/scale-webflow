@@ -183,6 +183,7 @@
 
 /* Card images */
 --sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-tokens-light.png);
+--sc-image-card-feature-components: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-components-light.png);
 --sc-image-card-feature-icons: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-icons-light.png);
 
 }
@@ -197,6 +198,7 @@
 
 /* Card images */
 --sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-tokens-dark.png);
+--sc-image-card-feature-components: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-components-dark.png);
 --sc-image-card-feature-icons: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-icons-dark.png);
 
 }
