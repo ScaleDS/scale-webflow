@@ -178,6 +178,9 @@
 /* Hero image */
 --sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-design-system/images/scale-home-hero-light-1920.png);
 
+/* Module images */
+--sc-image-module-components: url(https://scaleds.github.io/scale-design-system/images/scale-image-module-components-light.png);
+
 /* Card images */
 --sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-tokens-light.png);
 --sc-image-card-feature-icons: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-icons-light.png);
@@ -188,6 +191,9 @@
 
 /* Hero image */
 --sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-design-system/images/scale-home-hero-dark-1920.png);
+
+/* Module images */
+--sc-image-module-components: url(https://scaleds.github.io/scale-design-system/images/scale-image-module-components-dark.png);
 
 /* Card images */
 --sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-tokens-dark.png);
