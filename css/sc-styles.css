@@ -211,6 +211,15 @@ a:hover {
   background-size: cover;
 }
 
+/* Modules */
+
+.sc-image-module-components {
+  background: var(--sc-image-module-components);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 /* Cards */
 
 .card {
