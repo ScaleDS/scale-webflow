@@ -210,3 +210,9 @@ a:hover {
   background-position: center;
   background-size: cover;
 }
+
+/* Cards */
+
+.card {
+  background-color: var(--sc-color-background-subtle);
+}
