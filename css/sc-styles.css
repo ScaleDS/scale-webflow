@@ -223,3 +223,10 @@ a:hover {
   background-position: center;
   background-size: cover;
 }
+
+.sc-image-card-feature-icons {
+  background: var(--sc-image-card-feature-icons);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
