@@ -86,9 +86,6 @@
 --sc-color-overlay-70: #FFFFFF;
 --sc-color-overlay-70-inverse: #000000;
 
-/* Hero image */
---sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-design-system/images/scale-home-hero-light-1920.png);
-
 }
 
 /* Dark theme */
@@ -172,10 +169,30 @@
 --sc-color-overlay-70: #000000;
 --sc-color-overlay-70-inverse: #FFFFFF;
 
+}
+
+/* Images */
+
+:root {
+
+/* Hero image */
+--sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-design-system/images/scale-home-hero-light-1920.png);
+
+/* Card images */
+--sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-tokens-light.png);
+
+}
+
+[data-theme="dark"] {
+
 /* Hero image */
 --sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-design-system/images/scale-home-hero-dark-1920.png);
 
+/* Card images */
+--sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-tokens-dark.png);
+
 }
+
 
 
 :root {
