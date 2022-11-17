@@ -267,3 +267,12 @@ a:hover {
 .sc-form-signup {
   background-color: var(--sc-color-background-info-subtle);
 }
+
+.sc-text-field {
+  background-color: var(--sc-color-background-transperant);
+  color: var(--sc-color-text-secondary);
+  border-color: var(--sc-color-border-default);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+}
