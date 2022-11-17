@@ -240,6 +240,13 @@ a:hover {
   background-size: cover;
 }
 
+.sc-image-card-feature-text {
+  background: var(--sc-image-card-feature-text);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .sc-image-card-feature-icons {
   background: var(--sc-image-card-feature-icons);
   background-repeat: no-repeat;
