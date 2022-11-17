@@ -204,6 +204,12 @@ a:hover {
 
 /* Images */
 
+/* Containers */
+
+.made {
+  background-color: var(--sc-color-background-inverse);
+}
+
 .sc-image-hero-wallpaper {
   background: var(--sc-image-hero-wallpaper);
   background-repeat: no-repeat;
