@@ -202,13 +202,10 @@ a:hover {
 
 /* Labels */
 
+
+
+
 /* Images */
-
-/* Containers */
-
-.made {
-  background-color: var(--sc-color-background-inverse);
-}
 
 .sc-image-hero-wallpaper {
   background: var(--sc-image-hero-wallpaper);
@@ -216,6 +213,7 @@ a:hover {
   background-position: center;
   background-size: cover;
 }
+
 
 /* Modules */
 
@@ -225,6 +223,7 @@ a:hover {
   background-position: center;
   background-size: cover;
 }
+
 
 /* Cards */
 
@@ -265,6 +264,13 @@ a:hover {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+
+/* Containers */
+
+.made {
+  background-color: var(--sc-color-background-subtle-static);
 }
 
 
