@@ -269,7 +269,7 @@ a:hover {
 }
 
 .sc-text-field {
-  background-color: var(--sc-color-background-transperant);
+  background-color: var(--sc-color-background-default);
   color: var(--sc-color-text-secondary);
   border-color: var(--sc-color-border-default);
   border-style: solid;
