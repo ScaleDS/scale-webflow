@@ -18,6 +18,10 @@ p {
   font-weight: 400;
 }
 
+.sc-color-text-tertiary {
+  color: var(--sc-color-text-tertiary);
+}
+
 a {
   color: var(--sc-color-text-link);
   font-weight: 600;
@@ -39,6 +43,14 @@ a {
 
 .sc-color-text-secondary-inverse-static {
   color: var(--sc-color-text-secondary-inverse-static);
+}
+
+.sc-color-text-tertiary-inverse {
+  color: var(--sc-color-text-tertiary-inverse);
+}
+
+.sc-color-text-tertiary-inverse-static {
+  color: var(--sc-color-text-tertiary-inverse-static);
 }
 
 /* Text global size */
