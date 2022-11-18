@@ -224,10 +224,8 @@ a:hover {
 
 /* Icons */
 
-.sc-color-icon-default {
-  fill: none;
-  stroke-width: 1.5px;
-  stroke: #491EC4;
+.sc-color-icon-default path {
+  stroke: red;
 }
 
 
