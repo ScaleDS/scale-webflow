@@ -19,6 +19,10 @@ p {
   font-weight: 400;
 }
 
+b, strong {
+  font-weight: 600;
+}
+
 .sc-color-text-tertiary {
   color: var(--sc-color-text-tertiary);
 }
