@@ -205,6 +205,12 @@ a:hover {
 
 /* Labels */
 
+/* Divider */
+
+.divider {
+  background-color: var(--sc-color-border-subtle);
+}
+
 /* Images */
 
 .sc-image-hero-wallpaper {
