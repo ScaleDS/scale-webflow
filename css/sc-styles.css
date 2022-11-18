@@ -225,7 +225,7 @@ a:hover {
 /* Icons */
 
 .sc-color-icon-default path {
-  stroke: red;
+  stroke: var(--sc-color-icon-default);
 }
 
 
