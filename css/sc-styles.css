@@ -241,7 +241,7 @@ a:hover {
 
 /* Cards */
 
-.card {
+.card__feature {
   background-color: var(--sc-color-background-subtle);
 }
 
@@ -278,10 +278,6 @@ a:hover {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}
-
-.card__pricing {
-  background-color: transperant !important;
 }
 
 
