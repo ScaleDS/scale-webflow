@@ -225,7 +225,7 @@ a:hover {
 /* Icons */
 
 .sc-color-icon-default {
-  fill: red;
+  fill: red !important;
 }
 
 
