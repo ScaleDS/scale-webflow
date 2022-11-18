@@ -257,6 +257,10 @@ a:hover {
   background-color: var(--sc-color-background-subtle);
 }
 
+.sc-form-signup {
+  background-color: var(--sc-color-background-subtle);
+}
+
 .sc-image-card-feature-tokens {
   background: var(--sc-image-card-feature-tokens);
   background-repeat: no-repeat;
