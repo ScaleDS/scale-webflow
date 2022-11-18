@@ -281,7 +281,7 @@ a:hover {
 }
 
 .card__pricing {
-  background-color: transperant;
+  background-color: transperant !important;
 }
 
 
