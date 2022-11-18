@@ -280,6 +280,10 @@ a:hover {
   background-size: cover;
 }
 
+.card__pricing {
+  background-color: transperant;
+}
+
 
 /* Containers */
 
