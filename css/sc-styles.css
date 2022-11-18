@@ -209,6 +209,7 @@ a:hover {
 
 .divider {
   background-color: var(--sc-color-border-subtle);
+  height: 1px;
 }
 
 /* Images */
