@@ -24,6 +24,7 @@
 /* Static */
 --sc-color-text-primary-inverse-static: #FFFFFF;
 --sc-color-text-secondary-inverse-static: #F2F2F2;
+--sc-color-text-tertiary-inverse-static: #E5E5E5;
 
 --sc-color-button-primary: #3355FF;
 --sc-color-button-primary-hover: #2945CE;
@@ -110,6 +111,7 @@
 /* Static */
 --sc-color-text-primary-inverse-static: #FFFFFF;
 --sc-color-text-secondary-inverse-static: #F2F2F2;
+--sc-color-text-tertiary-inverse-static: #E5E5E5;
 
 --sc-color-button-primary: #5A76FF;
 --sc-color-button-primary-hover: #8196FF;
