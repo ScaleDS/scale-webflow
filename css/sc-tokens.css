@@ -223,11 +223,11 @@
 --sc-text-title-l: 64px;
 --sc-text-title-m: 56px;
 --sc-text-title-s: 48px;
---sc-text-heading-xl: 40px;
---sc-text-heading-l: 32px;
---sc-text-heading-m: 24px;
---sc-text-heading-s: 20px;
---sc-text-heading-xs: 16px;
+--sc-text-heading-xl: 40px; /* h1 */
+--sc-text-heading-l: 32px; /* h2 */
+--sc-text-heading-m: 24px; /* h3 */
+--sc-text-heading-s: 20px; /* h4 */
+--sc-text-heading-xs: 16px; /* h5 */
 --sc-text-heading-xxs: 14px;
 --sc-text-text-l: 16px;
 --sc-text-text-m: 14px;
