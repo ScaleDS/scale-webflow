@@ -10,14 +10,17 @@ body {
 
 h1, h2, h3, h4, h5 {
   color: var(--sc-color-text-primary);
+  font-weight: 600;
 }
 
 p {
   color: var(--sc-color-text-secondary);
+  font-weight: 400;
 }
 
 a {
   color: var(--sc-color-text-link);
+  font-weight: 600;
 }
 
 /* Text global token color */
@@ -201,9 +204,6 @@ a:hover {
 /* Paragraphs */
 
 /* Labels */
-
-
-
 
 /* Images */
 
