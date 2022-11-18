@@ -222,6 +222,13 @@ a:hover {
 }
 
 
+/* Icons */
+
+.sc-color-icon-default {
+  fill: red;
+}
+
+
 /* Modules */
 
 .sc-image-module-components {
