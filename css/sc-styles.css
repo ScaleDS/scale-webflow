@@ -203,7 +203,11 @@ a:hover {
   color: var(--sc-color-text-link-hover);
 }
 
-/* Headings */
+/* Header */
+
+.header-overlay {
+  background-color: var(--sc-color-overlay-70);
+}
 
 /* Paragraphs */
 
