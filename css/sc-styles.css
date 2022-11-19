@@ -66,6 +66,13 @@ a {
   font-size: var(--sc-text-title-xl);
 }
 
+@media screen and (min-width: 478px) {
+  .sc-text-title-xl {
+    font-size: var(--sc-text-heading-xl);
+    line-height: 32px;
+  }
+}
+
 .sc-text-title-l {
   font-size: var(--sc-text-title-l);
 }
