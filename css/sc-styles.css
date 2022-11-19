@@ -250,7 +250,7 @@ a:hover {
 
 /* Logos */
 
-.sc-color-icon-default path {
+.sc-logo-horz-inverse path.text {
   fill: var(--sc-color-background-inverse);
 }
 
