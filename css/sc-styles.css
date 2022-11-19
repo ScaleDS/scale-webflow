@@ -203,6 +203,17 @@ a:hover {
   color: var(--sc-color-text-link-hover);
 }
 
+
+/* Backround */
+
+.sc-color-background-default {
+  background-color: var(--sc-color-background-default);
+}
+
+.sc-color-background-inverse {
+  background-color: var(--sc-color-background-inverse);
+}
+
 /* Header */
 
 .header-overlay {
@@ -234,6 +245,13 @@ a:hover {
 
 .sc-color-icon-default path {
   stroke: var(--sc-color-icon-default);
+}
+
+
+/* Logos */
+
+.sc-color-icon-default path.text {
+  fill: var(--sc-color-background-inverse);
 }
 
 
