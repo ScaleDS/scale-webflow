@@ -68,8 +68,8 @@ a {
 
 @media screen and (max-width: 478px) {
   .sc-text-title-xl {
-    font-size: 48px;
-    line-height: 56px;
+    font-size: 56px;
+    line-height: 64px;
   }
 }
 
