@@ -89,6 +89,8 @@
 --sc-color-overlay-30-inverse: #00000030;
 --sc-color-overlay-70: #FFFFFF70;
 --sc-color-overlay-70-inverse: #00000070;
+--sc-color-overlay-90: #FFFFFF90;
+--sc-color-overlay-90-inverse: #00000090;
 
 }
 
@@ -176,6 +178,8 @@
 --sc-color-overlay-30-inverse: #FFFFFF30;
 --sc-color-overlay-70: #00000070;
 --sc-color-overlay-70-inverse: #FFFFFF70;
+--sc-color-overlay-90: #00000090;
+--sc-color-overlay-90-inverse: #FFFFFF90;
 
 }
 
