@@ -85,10 +85,10 @@
 --sc-color-surface-l6: #FFFFFF;
 
 /* Overlay */
---sc-color-overlay-30: #FFFFFF;
---sc-color-overlay-30-inverse: #000000;
---sc-color-overlay-70: #FFFFFF;
---sc-color-overlay-70-inverse: #000000;
+--sc-color-overlay-30: #4DFFFFFF;
+--sc-color-overlay-30-inverse: #4D000000;
+--sc-color-overlay-70: #B3FFFFFF;
+--sc-color-overlay-70-inverse: #B3000000;
 
 }
 
@@ -172,10 +172,10 @@
 --sc-color-surface-l6: #4C4C4C;
 
 /* Overlay */
---sc-color-overlay-30: #000000;
---sc-color-overlay-30-inverse: #FFFFFF;
---sc-color-overlay-70: #000000;
---sc-color-overlay-70-inverse: #FFFFFF;
+--sc-color-overlay-30: #4F000000;
+--sc-color-overlay-30-inverse: #4DFFFFFF;
+--sc-color-overlay-70: #B3000000;
+--sc-color-overlay-70-inverse: #B3FFFFFF;
 
 }
 
