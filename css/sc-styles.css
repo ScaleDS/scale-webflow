@@ -250,19 +250,19 @@ a:hover {
 
 /* Logos */
 
-.sc-logo-horz-inverse path.text {
+/* .sc-logo-horz-inverse path.text {
   fill: var(--sc-color-background-default);
-}
+} */
 
 
 /* Modules */
 
-/* .sc-image-module-components {
+.sc-image-module-components {
   background: var(--sc-image-module-components);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-} */
+}
 
 
 /* Cards */
