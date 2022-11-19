@@ -333,3 +333,10 @@ a:hover {
   border-width: 1px;
   border-radius: 12px;
 }
+
+
+/* Badge */
+
+.w-webflow-badge {
+  display: none !important;
+}
