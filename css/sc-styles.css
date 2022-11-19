@@ -233,12 +233,12 @@ a:hover {
 
 /* Images */
 
-.sc-image-hero-wallpaper, .section__hero {
+/* .sc-image-hero-wallpaper, .section__hero {
   background-image: var(--sc-image-hero-wallpaper);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}
+} */
 
 
 /* Icons */
