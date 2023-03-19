@@ -188,34 +188,34 @@
 :root {
 
 /* Hero image */
---sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-design-system/images/scale-home-hero-light-1920.png);
+--sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-webflow/images/scale-home-hero-light-1920.png);
 
 /* Module images */
---sc-image-module-components: url(https://scaleds.github.io/scale-design-system/images/scale-image-module-components-light.png);
+--sc-image-module-components: url(https://scaleds.github.io/scale-webflow/images/scale-image-module-components-light.png);
 
 /* Card images */
---sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-tokens-light.png);
---sc-image-card-feature-components: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-components-light.png);
---sc-image-card-feature-text: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-text-light.png);
---sc-image-card-feature-layout: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-layout-light.png);
---sc-image-card-feature-icons: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-icons-light.png);
+--sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-tokens-light.png);
+--sc-image-card-feature-components: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-components-light.png);
+--sc-image-card-feature-text: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-text-light.png);
+--sc-image-card-feature-layout: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-layout-light.png);
+--sc-image-card-feature-icons: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-icons-light.png);
 
 }
 
 [data-theme="dark"] {
 
 /* Hero image */
---sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-design-system/images/scale-home-hero-dark-1920.png);
+--sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-webflow/images/scale-home-hero-dark-1920.png);
 
 /* Module images */
---sc-image-module-components: url(https://scaleds.github.io/scale-design-system/images/scale-image-module-components-dark.png);
+--sc-image-module-components: url(https://scaleds.github.io/scale-webflow/images/scale-image-module-components-dark.png);
 
 /* Card images */
---sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-tokens-dark.png);
---sc-image-card-feature-components: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-components-dark.png);
---sc-image-card-feature-text: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-text-dark.png);
---sc-image-card-feature-layout: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-layout-dark.png);
---sc-image-card-feature-icons: url(https://scaleds.github.io/scale-design-system/images/scale-image-card-feature-icons-dark.png);
+--sc-image-card-feature-tokens: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-tokens-dark.png);
+--sc-image-card-feature-components: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-components-dark.png);
+--sc-image-card-feature-text: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-text-dark.png);
+--sc-image-card-feature-layout: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-layout-dark.png);
+--sc-image-card-feature-icons: url(https://scaleds.github.io/scale-webflow/images/scale-image-card-feature-icons-dark.png);
 
 }
 
