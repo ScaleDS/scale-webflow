@@ -244,6 +244,14 @@ a:hover {
   background-image: var(--sc-image-hero-wallpaper);
 }
 
+.sc-image-chat-login {
+  background-image: var(--sc-image-chat-login);
+}
+
+.sc-image-hero-figma-button-tokens {
+  background-image: var(--sc-image-hero-figma-button-tokens);
+}
+
 
 /* Icons */
 

@@ -190,7 +190,7 @@
 /* Hero image */
 --sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-webflow/images/scale-home-hero-light-1920.png);
 --sc-image-chat-login: url(https://scaleds.github.io/scale-webflow/images/hero/sc-image-chat-login-light.png);
---sc-image-hero-figma-button-tokens-dark: url(https://scaleds.github.io/scale-webflow/images/hero/sc-image-hero-figma-button-tokens-light.png);
+--sc-image-hero-figma-button-tokens: url(https://scaleds.github.io/scale-webflow/images/hero/sc-image-hero-figma-button-tokens-light.png);
 
 /* Module images */
 --sc-image-module-components: url(https://scaleds.github.io/scale-webflow/images/scale-image-module-components-light.png);
@@ -209,7 +209,7 @@
 /* Hero image */
 --sc-image-hero-wallpaper: url(https://scaleds.github.io/scale-webflow/images/scale-home-hero-dark-1920.png);
 --sc-image-chat-login: url(https://scaleds.github.io/scale-webflow/images/hero/sc-image-chat-login-dark.png);
---sc-image-hero-figma-button-tokens-dark: url(https://scaleds.github.io/scale-webflow/images/hero/sc-image-hero-figma-button-tokens-dark.png);
+--sc-image-hero-figma-button-tokens: url(https://scaleds.github.io/scale-webflow/images/hero/sc-image-hero-figma-button-tokens-dark.png);
 
 /* Module images */
 --sc-image-module-components: url(https://scaleds.github.io/scale-webflow/images/scale-image-module-components-dark.png);
