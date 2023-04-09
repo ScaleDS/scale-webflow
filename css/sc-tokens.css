@@ -73,7 +73,7 @@
 --sc-color-background-negative-subtle: #FEF6F6;
 --sc-color-background-positive-subtle: #F5FBF7;
 /* Static */
---sc-color-background-subtle-static: #0D0D0D;
+--sc-color-background-subtle-static: #1A1A1A;
 --sc-color-background-system-static: #000000;
 
 --sc-color-surface-l0: #FFFFFF;
@@ -162,7 +162,7 @@
 --sc-color-background-negative-subtle: #350606;
 --sc-color-background-positive-subtle: #00230C;
 /* Static */
---sc-color-background-subtle-static: #0D0D0D;
+--sc-color-background-subtle-static: #1A1A1A;
 --sc-color-background-system-static: #000000;
 
 --sc-color-surface-l0: #000000;
