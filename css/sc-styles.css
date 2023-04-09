@@ -129,6 +129,10 @@ a {
   font-size: var(--sc-text-link-m);
 }
 
+.sc-text-link-s {
+  font-size: var(--sc-text-link-s);
+}
+
 .sc-text-label-l {
   font-size: var(--sc-text-label-l);
 }
