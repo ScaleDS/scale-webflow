@@ -336,13 +336,13 @@ a:hover {
 }
 
 .w-slider-dot {
-  background-color: var(--sc-color-background-subtle);
-  width: 8px;
-  height: 8px;
+  background-color: var(--sc-color-background-subtle) !important;
+  width: 8px !important;
+  height: 8px !important;
 }
 
 .w-slider-dot w-active {
-  background-color: var(--sc-color-icon-selected);
+  background-color: var(--sc-color-icon-selected) !important;
 }
 
 
