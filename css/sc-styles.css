@@ -332,7 +332,17 @@ a:hover {
 /* Containers */
 
 .made-chat {
-  background-color: var(--sc-color-background-subtle-static);
+  background-color: var(--sc-color-background-subtle);
+}
+
+.w-slider-dot {
+  background-color: var(--sc-color-icon-selected);
+  width: 8px;
+  height: 8px;
+}
+
+.w-slider-dot w-active {
+  background-color: var(--sc-color-icon-selected);
 }
 
 
