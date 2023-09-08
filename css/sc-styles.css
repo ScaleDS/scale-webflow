@@ -237,6 +237,10 @@ a:hover {
   background-color: var(--sc-color-overlay-90);
 }
 
+.hero__logo-text {
+  color: var(--sc-color-text-primary);
+}
+
 /* Paragraphs */
 
 /* Labels */
